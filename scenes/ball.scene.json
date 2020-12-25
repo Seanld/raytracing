@@ -1,0 +1,18 @@
+{
+    "objects": [
+        {
+            "type": "sphere",
+            "color": "rgb(255, 0, 0)",
+            "position": [0, 0, 0],
+            "radius": 20
+        }
+    ],
+    "background": "rgb(0, 0, 0)",
+    "camera": {
+        "position": [-80, 0, 0],
+        "rotation": [0, 0, 0],
+        "screenSize": [100, 100],
+        "screenResolution": [1000, 1000],
+        "screenDistance": 20
+    }
+}
